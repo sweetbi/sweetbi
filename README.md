@@ -1,4 +1,3 @@
-## About me
 Hello! I'm Danbi Kim, an undergraduate student majoring in Artificial Intelligence Convergence Engineering, researching AI that understands human emotion and context.
 
 Even in an age where technology connects people more tightly than ever, emotional isolation seems to be deepening across society. This gap is what draws my attention. While much of AI research has centered on performance and efficiency, the ability to accurately read a person's situation and emotions and respond accordingly remains relatively underexplored—and to me, it is a genuinely compelling problem in its own right, one that goes beyond simple emotion classification to require reasoning about context.
