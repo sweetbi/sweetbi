@@ -28,4 +28,4 @@ My research therefore focuses on enabling large language models (LLMs) to move p
 - Analysis of AI Education Trends via Text Mining (Coursework, 2024)
 - Document Clustering with Word2Vec and K-Means (Coursework, 2024)
 - Sentiment Analysis (Coursework, 2022)
-- AI Speaker (2022)
+- AI Speaker (Coursework, 2022)
