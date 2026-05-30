@@ -18,9 +18,7 @@
 ## Publications
 - 표면 어휘와 상황 맥락의 정서적 괴리: 마음 이론 기반의 LLM 감성 강도 보정 프레임워크
   (Sentiment Context Discordance: A Theory of Mind-Based LLM Framework for Affective Intensity Calibration)
-  📄 [Click here to view my CV (PDF)](./CV.pdf)
-
-[![CV](file:///C:/Users/thvld/OneDrive/Desktop/ESI-SimPO%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%A0%95%EC%84%9C%20%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8F%99%EC%A0%81%20%EB%A7%88%EC%A7%84%20%EA%B8%B0%EB%B0%98%20%EC%A0%81%EC%9D%91%EC%A0%81%20%EC%84%A0%ED%98%B8%EB%8F%84%20%EC%B5%9C%EC%A0%81%ED%99%94_%EA%B9%80%EB%8B%A8%EB%B9%84(%EC%B5%9C%EC%A2%85).pdf)](./CV.pdf)
+  * 📄 [Read the Paper (PDF)](./paper.pdf)
 -	ESI-SimPO: 한국어 정서 도메인을 위한 동적 마진 기반 적응적 선호도 최적화
   (ESI-SimPO: Adaptive Preference Optimization with Dynamic Margins for Korean Emotional Dialogue)
 -	텍스트 데이터 마이닝을 활용한 감정 강도 예측 분석 기법 
