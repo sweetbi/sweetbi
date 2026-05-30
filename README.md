@@ -18,4 +18,16 @@ My research therefore focuses on enabling large language models (LLMs) to move p
 
 
 -------------------------------------------------------
+## Honors & Programs
 
+- LG Aimers (Completed) — Individual Track, Top 12% (2025)
+- Naver BoostCourse "Python for Everyone" Coaching Study — Team Leader (2022)
+-------------------------------------------------------------
+## Projects
+
+- Question Generation Model — seq2seq with attention (Coursework, 2025)
+- Text-based Emotion Intensity Prediction (Regression Model) (Coursework, 2025)
+- Analysis of AI Education Trends via Text Mining (Coursework, 2024)
+- Document Clustering with Word2Vec and K-Means (Coursework, 2024)
+- Sentiment Analysis (Coursework, 2022)
+- AI Speaker (2022)
