@@ -1,9 +1,5 @@
 ## About me
-언어 모델이 사람의 감정과 사회적·심리적 맥락을 이해하도록 만드는 자연어처리 연구에 관심이 있습니다.
-- 🎓 **감정 강도 예측 회귀 모델** 연구로 융합지식 학술대회 발표
-- 📄 현재 LLM의 **마음 이론(Theory of Mind)** 연구로 KCI 등재지 논문 준비 중
-- 🔍 관심 분야: Natural Language Processing, Theory of Mind, Sentiment Analysis, LLM Alignment
-
+Hello! I'm DanBi Kim, an undergraduate student majoring in Artificial Intelligence Convergence Engineering, researching AI that understands human emotion and context.Even in an age where technology connects people more tightly than ever, emotional isolation seems to be deepening across society. This gap is what draws my attention. While much of AI research has centered on performance and efficiency, the ability to accurately read a person's situation and emotions and respond accordingly remains relatively underexplored—and to me, it is a genuinely compelling problem in its own right, one that goes beyond simple emotion classification to require reasoning about context.My research therefore focuses on enabling large language models (LLMs) to move past surface-level emotion recognition and infer a person's intent and situation. I have been exploring ways to integrate Theory of Mind and cognitive reasoning into these models, and most recently conducted a study on dynamic-margin preference optimization (SimPO) for Korean emotional dialogue, where the model learns to modulate the intensity of its empathy according to the weight of the situation. Going forward, I hope to extend this work so that AI can meaningfully reach people who need emotional support.
 -------------------------------------------------------
 ## Publications
 - 표면 어휘와 상황 맥락의 정서적 괴리: 마음 이론 기반의 LLM 감성 강도 보정 프레임워크
