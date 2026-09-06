@@ -11,7 +11,7 @@ I'm now interested in extending this to agents that hold context over time — m
 -------------------------------------------------------
 ## Publications
 - Judging Status, Not Harm(Submitted to NeuriPS at TAE 2026 
-- 표면 어휘와 상황 맥락의 정서적 괴리: 마음 이론 기반의 LLM 감성 강도 보정 프레임워크
+- 표면 어휘와 상황 맥락의 정서적 괴리: 마음 이론 기반의 LLM 감성 강도 보정 프레임워크(KCI)
   (Sentiment Context Discordance: A Theory of Mind-Based LLM Framework for Affective Intensity Calibration)
 -	ESI-SimPO: 한국어 정서 도메인을 위한 동적 마진 기반 적응적 선호도 최적화
   (ESI-SimPO: Adaptive Preference Optimization with Dynamic Margins for Korean Emotional Dialogue)
